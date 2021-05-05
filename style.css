@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+body {
+  color: #3c72a8;
+  /*background-color: #f9f9f9;*/
+  background-color: #d0dae4;
+  font-family: open-sans, Roboto;
+}
+
+h1 {
+  font-size: 46px;
+  opacity: 0.7;
+  text-shadow: 1px 1px 2px rgb(82 111 132 / 50%);
+}
+h2, h1  {
+  color: #416284;
+  line-height: 12px;
+}
+
+
+p {
+  font-size: 20px;
+}
+
+#first {
+  color: #4e6c8c;
+  font-size: 28px;
+  text-shadow: 1px 1px 2px rgb(45 61 72 / 50%);
+
+}
+
+img {
+  width: 350px;
+  border-radius: 47px;
+  box-shadow: 3px 3px 3px rgb(69 171 187 / 50%);
+}
+
+
+#btn-lewagon{
+  text-decoration: none;
+  background-color: #759dc5;
+  color: white;
+  font-size: 20px;
+  padding: 8px 16px;
+  margin: 16px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 2px rgb(65 74 80 / 50%);
+  margin-bottom: 5px;
+}
+
+#btn-lewagon:hover{
+  background-color: #a1b6cc;
+}
+
+.card {
+  /*background-color: #e8ecf1;*/
+  background-color: #f3f4f7;
+  margin: 32px auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 46px;
+  box-shadow: 4px 4px 4px rgb(65 74 80 / 50%);
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 37px;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+a {
+  color: #7d95bb;
+  text-shadow: 2px 2px 2px rgb(191 123 21 / 50%);
+}
